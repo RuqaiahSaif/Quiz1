@@ -9,8 +9,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/question_text"
-        android:id="@+id/quest_text"
+        android:text="@string/question_text1"
+        android:id="@+id/question_text"
         android:textSize="20sp"/>
 
 
@@ -29,6 +29,11 @@
             android:layout_height="wrap_content"
             android:text="@string/false_button"
             android:id="@+id/false_button"/>
+        <Button
+            android:id="@+id/cheat_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cheat_button" />
     </LinearLayout>
 
         <LinearLayout
@@ -47,7 +52,12 @@
             android:layout_height="wrap_content"
             android:src="@drawable/next_action_name"
             android:contentDescription="@string/next_button"
-            android:id="@+id/next1_button"></ImageButton>
+            android:id="@+id/next_button"></ImageButton>
         </LinearLayout>
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/degree_text_view"
+        android:textSize="20sp"/>
 </LinearLayout>

@@ -1,5 +1,5 @@
 package com.example.geoquiz
 
-data class Question( val textResId: Int, val answer: Boolean){
+data class Question( var textResId: Int?, var answer: Boolean?, var answerd:Int?, var setnum:Int ,var deg:Int){
 
 }

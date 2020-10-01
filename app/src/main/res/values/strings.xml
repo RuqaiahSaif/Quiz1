@@ -1,12 +1,23 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Canberra is the capital of Australia.</string>
-    <string name="question_sanaa">Sanaa is the capital of Yemen.</string>
-    <string name="question_taiz">taiz is the capital of Yemen.</string>
+    <string name="question_text1">Louis Walsh is older than Simon Cowell</string>
+    <string name="question_text2">Monaco is the smallest country in the world</string>
+    <string name="question_text3">The river Seine in Paris is longer than the river Thames in London.</string>
+    <string name="question_text4">There are five different blood groups</string>
+    <string name="question_text5">Cinderella was the first Disney princess.</string>
+    <string name="question_text6">ASOS stands for As Seen On Screen.</string>
+    <string name="question_text7">The Battle Of Hastings took place in 1066.</string>
+    <string name="question_text8">A cara cara navel is a type of orange.</string>
+    <string name="question_text9">There are five different blood groups.</string>
     <string name="correct_toast">Correct</string>
     <string name="incorrect_toast">InCorrect</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next  </string>
     <string name="pre_button">  Prev </string>
-    </resources>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
